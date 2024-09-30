@@ -1,0 +1,32 @@
+Novidade! Atalhos do teclado … Os atalhos de teclado do Drive foram atualizados para oferecer navegação por letras iniciais
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aventura escolar</title>
+</head>
+<body>
+    <main>
+          <div>
+             <p>O que vc deseja?</p>
+       	 <button> Bola </button>
+       	 <button> Notebook</button>
+          </div>
+
+          <div>
+            <p>Se escolheu bola,para onde voçê deseja ir?</p>
+           <button> Quadra </button>
+           <button> Pátio</button>
+         </div>
+         <div>
+            <p>Se escolheu o Notebook, escolha um dos dois para auxilialo:</p>
+           <button> Mildre </button>
+           <button> Abel</button>
+         </div>
+    </main>
+        
+           
+        
+</body>
+</html>
